@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sky Blue Theme -->
+    <color name="sky_blue_light">#B3E5FC</color>
+    <color name="sky_blue">#03A9F4</color>
+    <color name="sky_blue_dark">#0288D1</color>
+    <color name="sky_blue_accent">#FFD740</color>
+
+    <!-- Sakura Pink Theme -->
+    <color name="sakura_pink_light">#F8BBD0</color>
+    <color name="sakura_pink">#E91E63</color>
+    <color name="sakura_pink_dark">#C2185B</color>
+    <color name="sakura_pink_accent">#FF80AB</color>
+
+    <!-- Mint Green Theme -->
+    <color name="mint_green_light">#B2DFDB</color>
+    <color name="mint_green">#009688</color>
+    <color name="mint_green_dark">#00796B</color>
+    <color name="mint_green_accent">#64FFDA</color>
+
+    <!-- Lavender Theme -->
+    <color name="lavender_light">#D1C4E9</color>
+    <color name="lavender">#673AB7</color>
+    <color name="lavender_dark">#512DA8</color>
+    <color name="lavender_accent">#B388FF</color>
+
+    <!-- Common Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dark_surface">#121212</color>
+</resources>
